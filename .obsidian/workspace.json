@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modélisation Multidimensionnelle.md",
+                "file": "BDD Avancé/Modélisation Multidimensionnelle.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,6 +197,6 @@
   "active": "32af5cb5901505e9",
   "lastOpenFiles": [
     "BDD Avancé",
-    "Modélisation Multidimensionnelle.md"
+    "BDD Avancé/Modélisation Multidimensionnelle.md"
   ]
 }
